@@ -36,11 +36,11 @@ If you are opting out of career services, this is _still a required assignment_.
 ​
 Your updated portfolio should:
 ​
-1. Display your full name, email, and phone number
+<!-- 1. Display your full name, email, and phone number -->
 ​
-2. Have links to your GitHub profile and LinkedIn profile
+<!-- 2. Have links to your GitHub profile and LinkedIn profile -->
 ​
-3. Have a link to a downloadable PDF of your resume
+<!-- 3. Have a link to a downloadable PDF of your resume -->
 ​
 4. Display at least 2 examples of student work from either deployed projects or homeworks. For each project, make sure you have the following:
 ​
